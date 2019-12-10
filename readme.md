@@ -22,3 +22,7 @@ npm install node-fetch
 
 node api.js  
 Insira um repositório: //Digite ou cole o link do repositório
+
+## Abrindo o arquivo CSV
+
+Quando abrir o arquivo CSV, configurar o separador de campos para "|".
