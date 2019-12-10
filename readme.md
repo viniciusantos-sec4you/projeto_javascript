@@ -14,8 +14,13 @@ Esse projeto tem como objetivo demonstrar os conhecimentos de Javascript que for
 
 Para utilizar esse script é necessário executar os seguintes comandos de instalação:
 
-apt install node  
-apt install npm  
+Para windows  
+
+https://nodejs.org/en/download/  
+
+Para linux  
+
+apt install nodejs  
 npm install node-fetch  
 
 ## Executando o código:
