@@ -14,11 +14,11 @@ Esse projeto tem como objetivo demonstrar os conhecimentos de Javascript que for
 
 Para utilizar esse script é necessário executar os seguintes comandos de instalação:
 
-apt install node··
-apt install npm··
-npm install node-fetch··
+apt install node  
+apt install npm  
+npm install node-fetch  
 
 ## Executando o código:
 
-node api.js··
+node api.js  
 Insira um repositório: //Digite ou cole o link do repositório
