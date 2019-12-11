@@ -20,7 +20,8 @@ https://nodejs.org/en/download/
 
 Para linux  
 
-apt install nodejs  
+apt install nodejs 
+apt instal npm 
 npm install node-fetch  
 
 ## Executando o código:
@@ -30,4 +31,4 @@ Insira um repositório: //Digite ou cole o link do repositório
 
 ## Abrindo o arquivo CSV
 
-Quando abrir o arquivo CSV, configurar o separador de campos para "|".
+Quando abrir o arquivo CSV, configurar o separador de campos para "," e o delimitador de string """.
